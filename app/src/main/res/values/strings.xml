@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Social App</string>
+    <string name="your_web_client_id">409792133880-6vkvj156ue68ea2nl1d5r7salk1s1ibm.apps.googleusercontent.com</string>
+    <string name="more">More</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
